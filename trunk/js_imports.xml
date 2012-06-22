@@ -1,0 +1,8 @@
+<root>
+<js><![CDATA[<script src="js/jquery-1.7.2.min.js"></script>]]></js>
+<js><![CDATA[<script src="js/jquery-ui-1.8.20.custom.min.js"></script>]]></js>
+<js><![CDATA[<script src="js/jquery-collision-1.0.1.js"></script>]]></js>
+<js><![CDATA[<script src="js/jquery-ui-draggable-collision-1.0.1.js"></script>]]></js>
+<js><![CDATA[<script src="js/contextmenu.js"></script>]]></js>
+<js><![CDATA[<script src="js/dashboard.js"></script>]]></js>
+</root>
