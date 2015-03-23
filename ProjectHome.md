@@ -1,0 +1,1 @@
+Simple, customizable dashboard GUI for web application
